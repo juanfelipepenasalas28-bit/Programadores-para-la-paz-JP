@@ -1,0 +1,24 @@
+Nombre del estudiante: Juan Felipe Peña Salas
+Fecha: 01/05/2026
+Nombre de la rama: Juan_salas
+
+1. ¿El formulario tiene un título claro?
+    Respuesta: Sí, el título “Comunidad Digital” es claro y va directo al punto, deja entender que es un espacio para conectarnos y participar mejor.
+2. ¿El formulario explica para qué se usará la información?
+    Respuesta: Sí, explica que la información sirve para fortalecer la participación de los estudiantes y organizar mejor las ideas dentro de la comunidad.
+3. ¿Cada campo tiene un label o etiqueta visible?
+    Respuesta: Sí, cada espacio tiene su etiqueta, eso ayuda bastante porque uno sabe qué debe poner sin confundirse.
+4. ¿El lenguaje usado es sencillo y comprensible?
+    Respuesta: Sí, el lenguaje es fácil de entender, no es complicado y cualquier persona lo puede llenar sin problema.
+5. ¿El formulario evita pedir datos innecesarios?
+    Respuesta: Sí, solo pide lo necesario, lo cual está bien porque cuida la privacidad.
+6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
+    Respuesta: Sí, tiene un espacio amplio donde uno puede escribir bien sus ideas y propuestas sin limitaciones.
+7. ¿El formulario incluye una casilla o mensaje de consentimiento?
+    Respuesta: Sí, tiene un mensaje donde uno acepta el uso responsable de la información, eso da más confianza.
+8. ¿El botón de envío tiene un texto claro?
+    Respuesta: Sí, el botón es claro y fácil de entender, indica bien que ya estás enviando la información.
+9. ¿La página se puede leer con facilidad?
+    Respuesta: Sí, se ve bien, la letra es clara y no toca hacer esfuerzo para leer.
+10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
+    Respuesta: Le agregaría más accesibilidad, como opciones de audio o que se adapte mejor a cualquier celular, así habría una conexión digital más estable y todos podrían participar sin dificultad.
